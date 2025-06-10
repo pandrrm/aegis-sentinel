@@ -178,7 +178,7 @@ We welcome contributions! Please feel free to submit pull requests, report bugs,
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/aegis-sentinel.git
+git clone https://github.com/pandrrm/aegis-sentinel.git
 cd aegis-sentinel
 pip3 install -r requirements.txt
 ```
