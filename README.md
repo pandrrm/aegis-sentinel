@@ -42,7 +42,7 @@ sudo yum install python3-pip iptables
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/aegis-sentinel.git
+   git clone https://github.com/pandrrm/aegis-sentinel.git
    cd aegis-sentinel
    ```
 
